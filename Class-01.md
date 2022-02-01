@@ -9,22 +9,22 @@ Class-01.md
 ##### Chapter 1: Structure
 
 - HTML is made up of various elements which will have a opening and closing tag, the content of the page goes between these tags, and the tags will denote the basic styling for the content. 
-- Example > '<h1> Heading 1 </h1>' This is a heading tag, it happens to be Heading 1, which is the largest of the available heading tags.
+- Example  `<h1> Heading 1 </h1>` This is a heading tag, it happens to be Heading 1, which is the largest of the available heading tags.
 -  These tags can further be customized by adding atrribute names and values, These tags tell the browser certain important information about the content inside the tags.
 - HTML uses many different tags to manage content. Most of these tags will have both and opening and closing tag, but not everyone.
 
 ##### Chapter 8: "Extra Markup"
 
-- The '<!Doctype html>' Tag tells the web browser to expect HTML following that tag. 
-- '<!-- Note goes here -->' This is the syntax for a note in HTML. Notes could handily be placed between important transitions on your webpage, for example where your introduction ends and the main content begins. These comments will only be visiable in the source for the page. And therefore are to help with readablility and understanding when modifying or examining the HTML later.
+- The `<!Doctype html>` Tag tells the web browser to expect HTML following that tag. 
+- `<!-- Note goes here -->` This is the syntax for a note in HTML. Notes could handily be placed between important transitions on your webpage, for example where your introduction ends and the main content begins. These comments will only be visiable in the source for the page. And therefore are to help with readablility and understanding when modifying or examining the HTML later.
 - Every HTML tag can have an id attribute. This is a unique identifier that can only be used on that single tag, but will allow you to address that tag in future code, perhaps to assign certain styling with CSS, or to link to that content from a different location on the page. Again, No two tags or elements may share the same ID attribute. 
 - Every HTML tag can also have a class attribute. Think of this like a ID attribute only a class can be assigned to multiple tags. Which can be addressed later as a group, to apply certain styling and more. 
-- Block elements in HTML will modify the basic formating of the HTML. I.E. a unordered list '<ul></ul>' will create a block on the page that contains its content.
-- In line elements will not reformat the page content. Examples of these include '<em></em>' which will italicise text, or '<b></b>' which will bold the text inside the tags. 
-- You can use a '<div>' tag to create blocks of HTML that would otherwise exsist outside of a block and fall inlime with other page content.
-- the '<span>' tag works the same as div, but for inline content.
+- Block elements in HTML will modify the basic formating of the HTML. I.E. a unordered list `<ul></ul>` will create a block on the page that contains its content.
+- In line elements will not reformat the page content. Examples of these include `<em></em>` which will italicise text, or `<b></b>` which will bold the text inside the tags. 
+- You can use a `<div>` tag to create blocks of HTML that would otherwise exsist outside of a block and fall inlime with other page content.
+- the `<span>` tag works the same as div, but for inline content.
 - An Iframe is a window inside your webpage that displays another page. I.E. the map content inside google.maps.
-- '<meta>' Tags contain information about the webpage that is not visiable to the browser, this will generally contain information like who made the webpage, and more.
+- `<meta>` Tags contain information about the webpage that is not visiable to the browser, this will generally contain information like who made the webpage, and more.
 - escape characters are needed to disply certain special characters through HTML such as <, >, or the copywrite sign. 
 
 ##### Chapter 17: "HTML 5 Layout"
@@ -53,7 +53,7 @@ Class-01.md
 - In order to efficently create a script it is important to break it into steps.
  1. Define the goal: understand what the script should accomplish or return.
  2. Design the script: split the script into a series of tasks that will accomplish your final goal
- 3. Code each step: Now that you've broken the script into peices, you can program each small section.
+ 3. Code each step: Now that you`ve broken the script into peices, you can program each small section.
 - A flowchart or other visual organizational aid, can be very helpful when designing a script.
 - JS is an object oriented language, Objects within your JS code can contain individual properties. Which themselfs can be further modified, as a user interacts with a page, or as functions are called and exicuted by your code. 
 - Methods denote how people or otherwise will interact with these objects. And what that should do when it happens. For example 
@@ -69,5 +69,5 @@ Class-01.md
     2. CSS Style the webpage content with rules 
     3. JS Make the website more dynamic or interactive, or simply style the page further passed CSS.
 
-- Linking a JS script to HTML requires use of the '<script></script>' tags, wherein you would place your JS code, Or better yet the file containing your JS code within the script tags. 
+- Linking a JS script to HTML requires use of the `<script></script>` tags, wherein you would place your JS code, Or better yet the file containing your JS code within the script tags. 
 
