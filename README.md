@@ -11,30 +11,30 @@ Each assignment in the Table of contents will link to its correlated notes .md d
 
 [_Read 01:_ Introductory HTML and Javascript](class-01.md)
 
-_ _Read 02:_ Coming soon
+ _Read 02:_ Coming soon
 
-_ _Read 03:_ Coming soon
+ _Read 03:_ Coming soon
 
-_ _Read 04:_ Coming soon
+ _Read 04:_ Coming soon
 
-_ _Read 05:_ Coming soon
+ _Read 05:_ Coming soon
 
-_ _Read 06:_ Coming soon
+ _Read 06:_ Coming soon
 
-_ _Read 07:_ Coming soon
+ _Read 07:_ Coming soon
 
-_ _Read 08:_ Coming soon
+ _Read 08:_ Coming soon
 
-_ _Read 09:_ Coming soon
+ _Read 09:_ Coming soon
 
-_ _Read 10:_ Coming soon
+ _Read 10:_ Coming soon
 
-_ _Read 11:_ Coming soon
+ _Read 11:_ Coming soon
 
-_ _Read 12:_ Coming soon
+ _Read 12:_ Coming soon
 
-_ _Read 13:_ Coming soon
+ _Read 13:_ Coming soon
 
-_ _Read 14:_ Coming soon
+ _Read 14:_ Coming soon
 
-_ _Read 15:_ Coming soon
+ _Read 15:_ Coming soon
