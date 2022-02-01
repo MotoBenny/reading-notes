@@ -9,7 +9,7 @@ Class-01.md
 ##### Chapter 1: Structure
 
 - HTML is made up of various elements which will have a opening and closing tag, the content of the page goes between these tags, and the tags will denote the basic styling for the content. 
-- Example  `<h1> Heading 1 </h1>` This is a heading tag, it happens to be Heading 1, which is the largest of the available heading tags.
+- Example  `<h1> Heading 1 </h1>` This is a heading tag, it happens to be heading 1, which is the largest of the available heading tags. There are a total of 6 heading tags from `<h1> to <h6>`.
 -  These tags can further be customized by adding atrribute names and values, These tags tell the browser certain important information about the content inside the tags.
 - HTML uses many different tags to manage content. Most of these tags will have both and opening and closing tag, but not everyone.
 
@@ -62,7 +62,7 @@ Class-01.md
      1. Answering the phone
      2. Checking for available rooms
      3. taking payment
-     4. Sending confermation 
+     4. Sending confirmation 
 - Once the Method is completed the Hotel object might change to (booked) which may change what happens the next time the Check people in Method is called. 
 - writing a beautiful funcitonal webpage requires multiple steps. 
     1. HTML Design the content of the webpage
