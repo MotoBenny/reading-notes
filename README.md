@@ -10,7 +10,7 @@ _Read:01_ Introductory HTML and Javascript
 
 ##### Ducket HTML
 
-  1. HTML Introduction
+  1. HTML Introduction (Class-01.md)
   2. HTML Chapter 1: "Structure"
   3. HTML Chapter 8: "Extra Markup"
   4. HTML Chapter 17: "HTML5 Layout"
