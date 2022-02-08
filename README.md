@@ -11,7 +11,7 @@ Each assignment in the Table of contents will link to its correlated notes .md d
 
 [_Read 01:_ Introductory HTML and Javascript](class-01.md)
 
- _Read 02:_ Coming soon
+[_Read 02:_ HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
 
  _Read 03:_ Coming soon
 
