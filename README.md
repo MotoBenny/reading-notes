@@ -9,7 +9,7 @@ Each assignment in the Table of contents will link to its correlated notes .md d
 
 ### **Table Of Contents**
 
-[_Read 01:_ Introductory HTML and Javascript](class-01.md)
+[_Read 01:_ Introductory HTML and Javascript](Class-01.md)
 
 [_Read 02:_ HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
 
