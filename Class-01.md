@@ -76,14 +76,14 @@ _Read:01_ Introductory HTML and Javascript
 - A flowchart or other visual organizational aid can be very helpful when designing a script.
 - JS is an object-oriented language, Objects within your JS code can contain individual properties. Which themselves can be further modified, as a user interacts with a page, or as functions are called and executed by your code.
 - Methods denote how people or otherwise will interact with these objects. And what that should do when it happens. For example,
-    A Hotel *(object)* needs to check people in *(method)*.
+    A Hotel _(object)_ needs to check people in _(method)_.
     Checking people in means (steps the method takes)
      1. Answering the phone
      2. Checking for available rooms
      3. taking payment
      4. Sending confirmation
 
-- Once the *Method* is completed the Hotel object might change to (booked) which may change what happens the next time the Check people in Method is called.
+- Once the _Method_ is completed the Hotel object might change to (booked) which may change what happens the next time the Check people in Method is called.
 - Writing a beautiful functional webpage requires multiple steps.
     1. HTML Design the content of the webpage
     2. CSS Style the webpage content with rules
