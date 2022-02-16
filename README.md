@@ -13,17 +13,17 @@ Each assignment in the Table of contents will link to its correlated notes .md d
 
 [_Read 02:_ HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
 
- _Read 03:_ Coming soon
+[_Read:03_ HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
 
- _Read 04:_ Coming soon
+ [Read: 04 - HTML Links, CSS Layout, JS Functions](class-04.md)
 
- _Read 05:_ Coming soon
+ [_Read:05_ HTML Images; CSS Color & Text](class-05.md)
 
- _Read 06:_ Coming soon
+ [_Read: 06_  JS Object Literals; The DOM](class-06.md)
 
- _Read 07:_ Coming soon
+ [_Read:07_ Object-Oriented Programming, HTML Tables](class-07.md)
 
- _Read 08:_ Coming soon
+[_Read:08_   More CSS Layout](class-08.md)
 
  _Read 09:_ Coming soon
 

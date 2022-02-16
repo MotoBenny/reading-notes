@@ -18,7 +18,6 @@ _Read:07_ Object-Oriented Programming, HTML Tables
 
 - `<table> <tr>table row <td>table data <th>Table heading` 
 - `colspan and rowspan` can control the layout of data in a table
--
 
 ## JS & Jquery By Jon Ducket
 
