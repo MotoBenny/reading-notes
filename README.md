@@ -23,9 +23,9 @@ Each assignment in the Table of contents will link to its correlated notes .md d
 
  [_Read:07_ Object-Oriented Programming, HTML Tables](class-07.md)
 
-[_Read:08_   More CSS Layout](class-08.md)
+ [_Read:08_  More CSS Layout](class-08.md)
 
- _Read 09:_ Coming soon
+ [_Read 09:_ _Read:_ 09 - Forms and Events](class-09.md)
 
  _Read 10:_ Coming soon
 
