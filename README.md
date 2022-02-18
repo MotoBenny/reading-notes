@@ -25,9 +25,9 @@ Each assignment in the Table of contents will link to its correlated notes .md d
 
  [_Read:08_  More CSS Layout](class-08.md)
 
- [_Read 09:_ _Read:_ 09 - Forms and Events](class-09.md)
+ [_Read 09:_  Forms and Events](class-09.md)
 
- _Read 10:_ Coming soon
+ [_Read 10:_ JS Debugging](class-10.md)
 
  _Read 11:_ Coming soon
 
