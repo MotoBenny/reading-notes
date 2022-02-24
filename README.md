@@ -29,12 +29,12 @@ Each assignment in the Table of contents will link to its correlated notes .md d
 
  [_Read 10:_ JS Debugging](class-10.md)
 
- _Read 11:_ Coming soon
+[_Read:_ 11 - Assorted Topics](class-11.md)
 
- _Read 12:_ Coming soon
+[ _Read 12:_ Assorted bits of documentation:](class-12.md)
 
- _Read 13:_ Coming soon
+ [Read: 13 - Local Storage](class-13.md)
 
- _Read 14:_ Coming soon
+ [_Read 14:_ Google and CSS transforms](class-14.md)
 
  _Read 15:_ Coming soon
