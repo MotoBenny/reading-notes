@@ -8,7 +8,7 @@ Each assignment in the Table of contents links to its correlated notes .md docum
 
 ### **Table Of Contents**
 
-[_Prework_: Dive Into React](read01.md)
+[_Prework_: Dive Into React](DiveIntoReact.md)
 
 [_Read01_:](Coming Soon)
 
