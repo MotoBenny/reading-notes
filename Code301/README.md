@@ -4,17 +4,17 @@ This Repo contains all my notes from my time in Code301 at Code Fellows.
 It is organized by reading assignment.
 Each assignment in the Table of contents links to its correlated notes .md document.
 
-# **Code 201: Reading Notes**
 
-## **Table Of Contents**
+# **Table Of Contents**
 
-### **Notes on reference documents**
+## **Notes on reference documents**
 
 [_Prework_: Dive Into React](DiveIntoReact.md)
 
 [_ES6classes_: ES6 Classes and Data Modeling](classes.md)
 
-### **Assigned Readings**
+## **Code 201: Reading Notes**
+
 
 [_Read01_:](Coming Soon)
 
