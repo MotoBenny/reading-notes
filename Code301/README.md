@@ -6,15 +6,15 @@ Each assignment in the Table of contents links to its correlated notes .md docum
 
 # **Code 201: Reading Notes**
 
-### **Table Of Contents**
+## **Table Of Contents**
 
-#### **Notes on reference documents**
+### **Notes on reference documents**
 
 [_Prework_: Dive Into React](DiveIntoReact.md)
 
 [_ES6classes_: ES6 Classes and Data Modeling](classes.md)
 
-#### **Assigned Readings**
+### **Assigned Readings**
 
 [_Read01_:](Coming Soon)
 
@@ -43,5 +43,3 @@ Each assignment in the Table of contents links to its correlated notes .md docum
 [_Read013_:](Coming Soon)
 
 [_Read014_:](Coming Soon)
-
-
