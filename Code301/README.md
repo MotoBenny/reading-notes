@@ -8,7 +8,13 @@ Each assignment in the Table of contents links to its correlated notes .md docum
 
 ### **Table Of Contents**
 
+#### Notes on reference documents
+
 [_Prework_: Dive Into React](DiveIntoReact.md)
+
+[_ES6classes_: ES6 Classes and Data Modeling](classes.md)
+
+#### Assigned Readings
 
 [_Read01_:](Coming Soon)
 
