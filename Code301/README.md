@@ -4,7 +4,6 @@ This Repo contains all my notes from my time in Code301 at Code Fellows.
 It is organized by reading assignment.
 Each assignment in the Table of contents links to its correlated notes .md document.
 
-
 # **Table Of Contents**
 
 ## **Notes on reference documents**
@@ -14,7 +13,6 @@ Each assignment in the Table of contents links to its correlated notes .md docum
 [_ES6classes_: ES6 Classes and Data Modeling](classes.md)
 
 ## **Code 201: Reading Notes**
-
 
 [_Read01_:](Coming Soon)
 
