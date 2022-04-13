@@ -5,6 +5,7 @@ It is organized by reading assignment.
 Each assignment in the Table of contents links to its correlated notes .md document.
 
 # **Table Of Contents**
+
 ## **Code 401: Reading Notes**
 
 [_Read01_:](Coming Soon)
