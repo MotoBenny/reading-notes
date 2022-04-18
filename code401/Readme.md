@@ -5,10 +5,12 @@ It is organized by reading assignment.
 Each assignment in the Table of contents links to its correlated notes .md document.
 
 # **Table Of Contents**
+[[Handy Tools]]
+[[SQL and relational DB]]
 
 ## **Code 401: Reading Notes**
 
-[_Read01_:](Coming Soon)
+[[Read01]]
 
 [_Read02_:](Coming Soon)
 
