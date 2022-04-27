@@ -30,4 +30,4 @@ Importantly each node of a linked list refernces the next node.
 	## Traversing a linked list
 	You are not able to use a foreach or a for loop to move within a linked list. Instead toy would access the 'Next' property of each node, to move along to the next item in the list.
 	
-	- The best way to traverse is with a `while` loop.
+	- The best way to traverse is with a `while` loop.****
